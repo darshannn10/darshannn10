@@ -10,12 +10,12 @@
   <a href="https://github.com/darshannn10">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshannn10&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darshannn10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+
 </div>
 <br>
   
 ![tryhackme stats](https://raw.githubusercontent.com/darshannn10/darshannn10/master/assets/thm_propic.png)
 
- 
 ## Contact
 <div> 
   <a href="https://www.linkedin.com/in/darshan-patel-9b4908190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
