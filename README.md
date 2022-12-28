@@ -13,7 +13,10 @@
 
 </div>
 <br>
-
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=darshannn10&theme=dracula)
+  
+  
 ![tryhackme stats](https://raw.githubusercontent.com/darshannn10/darshannn10/master/assets/thm_propic.png)
 
 ## Contact
