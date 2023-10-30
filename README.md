@@ -16,6 +16,7 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=darshannn10&theme=dracula)
   
+<iframe src="https://hackerrank-badge.herokuapp.com/darshannn10" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
   
 ![tryhackme stats](https://raw.githubusercontent.com/darshannn10/darshannn10/master/assets/thm_propic.png)
 
