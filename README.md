@@ -24,7 +24,7 @@
 
 
 
-![Snake animation](https://github.com/darshannn10/darshannn10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/darshannn10/darshannn10/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg))
 
 <p align="center"> 
   Visitor count<br>
