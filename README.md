@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Darshan 
-- 👀 I’m interested in Cyber-Security(Red-Team)
-- 🌱 I’m currently learning Web-App Pentesting
-- 💞️ I’m looking to collaborate on Bug-Bounties 
 
 
 ![Hello](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
