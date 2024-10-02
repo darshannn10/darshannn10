@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Darshan 
+- 👋 Hi, I’m Darshan
+- Certifications: CEHv12
+-  Working on : CRTP, CRTO, OSCP
+-  CTF Player at [TryHackme](https://tryhackme.com/p/fak3r) & [HackTheBox](https://app.hackthebox.com/profile/771231).
 
 
 <div>
