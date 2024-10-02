@@ -23,18 +23,33 @@
 
 </br>
 
-<a href="https://twitter.com/m4lici0u5"><img src="https://img.shields.io/twitter/follow/m4lici0u5?label=Twitter&style=social" alt="Twitter"></a>
 <br>
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
 
-## Contact
+<h3 align="left"> Reach out To me:</h3>
 <div> 
   <a href="https://www.linkedin.com/in/darshan-patel-9b4908190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/darshan10_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: darshanp054@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+----
+<a href="https://www.linkedin.com/in/darshan-patel-9b4908190/">
+  <img align="left" alt="Darshan Patel | Linkedin" width="20px" src="https://raw.githubusercontent.com/darshannn10/darshannn10/refs/heads/main/linkedin.svg" />
+</a>
 
+
+<a href="https://instagram.com/darshan10_">
+  <img align="left" alt="Darshan Patel | Instagram" width="21px" src="https://raw.githubusercontent.com/darshannn10/darshannn10/refs/heads/main/instagram.svg" />
+</a>
+
+
+<a href="mailto:darshannnn10@gmail.com">
+  <img align="left" alt="Darshan Patel | Email" width="21px" src="https://raw.githubusercontent.com/darshannn10/darshannn10/refs/heads/main/email.svg" />
+</a>
+
+<br />
+<br />
 
 
 <p align="center"> 
