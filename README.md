@@ -28,12 +28,6 @@
 </br>
 
 <h3 align="left"> Reach out To me:</h3>
-<div> 
-  <a href="https://www.linkedin.com/in/darshan-patel-9b4908190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/darshan10_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: darshanp054@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-----
 <a href="https://www.linkedin.com/in/darshan-patel-9b4908190/">
   <img align="left" alt="Darshan Patel | Linkedin" width="20px" src="https://raw.githubusercontent.com/darshannn10/darshannn10/refs/heads/main/linkedin.svg" />
 </a>
