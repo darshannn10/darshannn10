@@ -3,7 +3,9 @@
 
 <div>
   <a href="https://github.com/darshannn10">
-   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshannn10&layout=compact&langs_count=16&theme=dracula"/>
+   
+  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshannn10&layout=compact&langs_count=16&theme=dracula"/>
+    
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darshannn10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 
 </div>
@@ -22,7 +24,6 @@
 
 
 
-![Snake animation]([https://github.com/darshannn10/darshannn10/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg))
 
 <p align="center"> 
   Visitor count<br>
