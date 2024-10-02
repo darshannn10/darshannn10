@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Darshan 
 
 
-![Hello](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
 <div>
   <a href="https://github.com/darshannn10">
    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshannn10&layout=compact&langs_count=16&theme=dracula"/>
