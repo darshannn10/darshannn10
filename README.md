@@ -19,6 +19,15 @@
 
 ![tryhackme stats](https://raw.githubusercontent.com/darshannn10/darshannn10/master/assets/thm_propic.png)
 
+<br>
+
+</br>
+
+<a href="https://twitter.com/m4lici0u5"><img src="https://img.shields.io/twitter/follow/m4lici0u5?label=Twitter&style=social" alt="Twitter"></a>
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
+
 ## Contact
 <div> 
   <a href="https://www.linkedin.com/in/darshan-patel-9b4908190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
