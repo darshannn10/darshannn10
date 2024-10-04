@@ -8,6 +8,7 @@
   <a href="https://github.com/darshannn10">
    
   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshannn10&layout=compact&langs_count=16&theme=dracula"/>
+  <br></br>
     
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darshannn10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 
